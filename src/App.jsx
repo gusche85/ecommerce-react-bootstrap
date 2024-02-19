@@ -1,12 +1,15 @@
 import './App.css'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Header } from './components/common';
+import { Navibar } from './components/common';
 
-export default function App() {
+function App() {
   return (
-    <main>
-      <div className="m-5 mb-5 border border-dark border-pill">
-      <p>hello</p>
-      </div>
-    </main>
+    <>
+    <div><Navibar /></div>
+    <div><Header /></div>
+   </>
   )
 }
+
+export default App;
