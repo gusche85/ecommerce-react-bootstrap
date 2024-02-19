@@ -1,7 +1,7 @@
-import Header from './header/Header';
+import Carousel from './carousel/Carousel';
 import Navibar from './navbar/Navbar';
 
 export {
-  Header,
+  Carousel,
   Navibar
 }

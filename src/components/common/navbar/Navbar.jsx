@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navbar, Nav, Image, Col, Row, NavDropdown, Container } from 'react-bootstrap';
+import { Navbar, Nav, Col, Row, NavDropdown, Container } from 'react-bootstrap';
 
 function Navibar() {
   return (
@@ -52,10 +52,5 @@ function Navibar() {
   );
 }
 
-/*function Img () {
-  return (
-    <Image src="public/logo.png" height='80px'/>
-  )
-}*/
 
 export default Navibar;

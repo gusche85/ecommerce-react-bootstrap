@@ -1,7 +1,7 @@
 import React from 'react';
 //import { Navibar } from './../../common';
 
-function Header () {
+function Carousel () {
   return (
     <>
     <p>Hello</p>
@@ -10,4 +10,4 @@ function Header () {
   )
 }
 
-export default Header;
+export default Carousel;

@@ -1,3 +1,3 @@
-import Header from './Header';
+import Carousel from './Carousel';
 
-export default Header;
+export default Carousel;
