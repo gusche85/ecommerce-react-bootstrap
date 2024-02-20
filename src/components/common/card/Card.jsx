@@ -13,7 +13,9 @@ function Product() {
           <Card.Text>
             £71.00
           </Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
@@ -27,7 +29,9 @@ function Product() {
           <Card.Text>
           £23.00
           </Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
@@ -41,7 +45,9 @@ function Product() {
           <Card.Text>
             £69.00
           </Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
@@ -55,7 +61,9 @@ function Product() {
           <Card.Text>
           £65.00
           </Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
@@ -76,7 +84,9 @@ function Product1 () {
           <Card.Text>
           £131.00
           </Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
@@ -88,7 +98,9 @@ function Product1 () {
             The Only One Eau De Parfum 50ml
           </Card.Text>
           <Card.Text>£55.00</Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
@@ -112,7 +124,9 @@ function Product1 () {
             Flash Eau De Parfum 60ml
           </Card.Text>
           <Card.Text>£35.00</Card.Text>
+          <Card.Footer className="bg-transparent border-0">
           <Button variant="primary">Add to cart</Button>
+          </Card.Footer>
         </Card.Body>
       </Card>
 
