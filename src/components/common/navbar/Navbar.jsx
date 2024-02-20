@@ -3,18 +3,17 @@ import { Navbar, Nav, Col, Row, NavDropdown, Container } from 'react-bootstrap';
 
 function Navibar() {
   return (
-    <Row className="m-3 mb-5">
+    <Row className="m-3 mb-2">
       <Col md={2}>
         <Navbar.Brand href="#home">
           <img
             src='/logo.png'
             height="110"
-            
           />
          
         </Navbar.Brand>
       </Col>
-      <Col md={10} className="text-end">
+      <Col md={10} className="px-5 text-end">
         <Row className="border-bottom border-dark"> 
           <Container className="text-end">
            <Navbar>
