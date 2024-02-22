@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from './components/common';
 import { Navibar } from './components/common';
 import { Product, Product1 } from './components/common';
+import { Footer } from './components/common';
 
 function App() {
   return (
@@ -14,6 +15,9 @@ function App() {
       </div>
     <Product />
     <Product1 />
+       <hr className='m-3' />
+    <Footer />
+      <hr className='m-3' />
    </>
   )
 }
