@@ -35,8 +35,11 @@ function Navibar() {
                      Separated link
                    </NavDropdown.Item>
                  </NavDropdown>
+                 
                </Nav>
              </Navbar.Collapse>
+             <button type="button" id="shopping-cart" class="btn btn-outline-dark">Cart <i className="bi bi-cart4"></i></button>
+            
            </Navbar>
           </Container>
           
